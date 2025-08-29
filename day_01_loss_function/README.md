@@ -79,7 +79,7 @@ Because the error is squared:
 
 Why do errors of 10 and 2 differ not by a factor of 5, but by a factor of 25 in MSE?
 
---
+---
 
 ### B. Cross-Entropy
 
