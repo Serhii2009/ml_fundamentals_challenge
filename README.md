@@ -86,63 +86,63 @@ Each day follows a **clear and structured path**:
 
 ### Detailed Day-by-Day Plan
 
-#### Week 1: Deep Understanding of Loss & Gradient Descent
+## Week 1: Deep Understanding of Loss & Gradient Descent
 
 **Goal:** Understand how models learn from the inside — loss, gradients, optimization steps.
 
-| Day       | Topic                                       | Theory                                     | Practice                                         | Goal                                       |
-| --------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------ |
-| **Day 1** | Loss Function Mathematics                   | MSE, Cross-Entropy, formulas, meaning      | Implement MSE and Cross-Entropy with numpy       | Explain loss functions to a 10-year-old    |
-| **Day 2** | Introduction to Gradient Descent            | Derivative as direction of smallest change | Implement gradient descent for one variable      | Understand "rolling down the hill" analogy |
-| **Day 3** | Multidimensional Gradient Descent           | Gradients for vectors and matrices         | Implement gradient descent for linear regression | Calculate gradient step manually           |
-| **Day 4** | Learning Rate, Momentum, RMSProp            | Why step size regulation matters           | Add momentum to gradient descent                 | Master optimization techniques             |
-| **Day 5** | Regularization                              | L1, L2, Elastic Net, Dropout               | Add L2 regularization to linear regression       | Understand "penalty for complexity"        |
-| **Day 6** | Practice: Gradient Descent + Regularization | Combine concepts                           | Build model on synthetic data                    | Experiment with hyperparameters            |
-| **Day 7** | Week 1 Explanation                          | Review and solidify                        | Explain all concepts in your own words           | Deep comprehension check                   |
+| Day       | Topic                                       | Theory                                     | Practice                                         | Goal                                       | 1-Minute LinkedIn Video                                                                                            |
+| --------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Day 1** | Loss Function Mathematics                   | MSE, Cross-Entropy, formulas, meaning      | Implement MSE and Cross-Entropy with numpy       | Explain loss functions to a 10-year-old    | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7362854560731734016-kAfl |
+| **Day 2** | Introduction to Gradient Descent            | Derivative as direction of smallest change | Implement gradient descent for one variable      | Understand "rolling down the hill" analogy | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7367575410915565568-gL_X |
+| **Day 3** | Multidimensional Gradient Descent           | Gradients for vectors and matrices         | Implement gradient descent for linear regression | Calculate gradient step manually           | Coming Soon                                                                                                        |
+| **Day 4** | Learning Rate, Momentum, RMSProp            | Why step size regulation matters           | Add momentum to gradient descent                 | Master optimization techniques             | Coming Soon                                                                                                        |
+| **Day 5** | Regularization                              | L1, L2, Elastic Net, Dropout               | Add L2 regularization to linear regression       | Understand "penalty for complexity"        | Coming Soon                                                                                                        |
+| **Day 6** | Practice: Gradient Descent + Regularization | Combine concepts                           | Build model on synthetic data                    | Experiment with hyperparameters            | Coming Soon                                                                                                        |
+| **Day 7** | Week 1 Explanation                          | Review and solidify                        | Explain all concepts in your own words           | Deep comprehension check                   | Coming Soon                                                                                                        |
 
-#### Week 2: ML Foundations
+## Week 2: ML Foundations
 
 **Goal:** Build foundation for classical algorithms.
 
-| Day        | Topic                                       | Theory                                             | Practice                               | Goal                             |
-| ---------- | ------------------------------------------- | -------------------------------------------------- | -------------------------------------- | -------------------------------- |
-| **Day 8**  | Linear Regression                           | Formulas, MSE, gradient descent vs normal equation | Linear regression on Boston dataset    | Master linear relationships      |
-| **Day 9**  | Logistic Regression                         | Sigmoid, cross-entropy, gradient descent           | Implement from scratch in Python       | Understand classification basics |
-| **Day 10** | Classification Metrics                      | Accuracy, Precision, Recall, F1-score, ROC-AUC     | Apply sklearn on simple classification | Evaluate model performance       |
-| **Day 11** | Decision Trees                              | Space partitioning, entropy, Gini                  | Build decision tree with sklearn       | Understand tree-based decisions  |
-| **Day 12** | Ensembles: Random Forest, Gradient Boosting | Bagging vs Boosting concepts                       | Apply Random Forest on dataset         | Master ensemble methods          |
-| **Day 13** | Feature Engineering & Scaling               | Normalization, standardization, one-hot encoding   | Preprocess real dataset                | Prepare data for models          |
-| **Day 14** | Week 2 Explanation                          | Review ML algorithms and preprocessing             | Explain all concepts in your own words | Solidify ML fundamentals         |
+| Day        | Topic                                       | Theory                                             | Practice                               | Goal                             | 1-Minute LinkedIn Video |
+| ---------- | ------------------------------------------- | -------------------------------------------------- | -------------------------------------- | -------------------------------- | ----------------------- |
+| **Day 8**  | Linear Regression                           | Formulas, MSE, gradient descent vs normal equation | Linear regression on Boston dataset    | Master linear relationships      | Coming Soon             |
+| **Day 9**  | Logistic Regression                         | Sigmoid, cross-entropy, gradient descent           | Implement from scratch in Python       | Understand classification basics | Coming Soon             |
+| **Day 10** | Classification Metrics                      | Accuracy, Precision, Recall, F1-score, ROC-AUC     | Apply sklearn on simple classification | Evaluate model performance       | Coming Soon             |
+| **Day 11** | Decision Trees                              | Space partitioning, entropy, Gini                  | Build decision tree with sklearn       | Understand tree-based decisions  | Coming Soon             |
+| **Day 12** | Ensembles: Random Forest, Gradient Boosting | Bagging vs Boosting concepts                       | Apply Random Forest on dataset         | Master ensemble methods          | Coming Soon             |
+| **Day 13** | Feature Engineering & Scaling               | Normalization, standardization, one-hot encoding   | Preprocess real dataset                | Prepare data for models          | Coming Soon             |
+| **Day 14** | Week 2 Explanation                          | Review ML algorithms and preprocessing             | Explain all concepts in your own words | Solidify ML fundamentals         | Coming Soon             |
 
-#### Week 3: Deep Learning Fundamentals
+## Week 3: Deep Learning Fundamentals
 
 **Goal:** Understand neural network structure and backpropagation.
 
-| Day        | Topic                 | Theory                                  | Practice                                   | Goal                                      |
-| ---------- | --------------------- | --------------------------------------- | ------------------------------------------ | ----------------------------------------- |
-| **Day 15** | Perceptron            | Formula, linear combination, activation | Implement single perceptron                | Understand "decision with weighted brain" |
-| **Day 16** | Activation Functions  | Sigmoid, ReLU, Tanh, LeakyReLU          | Visualize functions on graphs              | Master non-linearity                      |
-| **Day 17** | Forward Propagation   | Signal flow from input to output        | Implement forward propagation with numpy   | Understand information flow               |
-| **Day 18** | Backpropagation       | Chain rule, gradients for each layer    | Calculate gradients manually for one layer | Master "backward wave for corrections"    |
-| **Day 19** | Optimization          | SGD, Momentum, Adam                     | Implement Adam for simple NN               | Advanced optimization techniques          |
-| **Day 20** | Practice: NN on MNIST | Combine all concepts                    | Build 1-2 layer NN with numpy              | End-to-end neural network                 |
-| **Day 21** | Week 3 Explanation    | Review NN, forward/backward propagation | Explain all concepts in your own words     | Deep learning comprehension               |
+| Day        | Topic                 | Theory                                  | Practice                                   | Goal                                      | 1-Minute LinkedIn Video |
+| ---------- | --------------------- | --------------------------------------- | ------------------------------------------ | ----------------------------------------- | ----------------------- |
+| **Day 15** | Perceptron            | Formula, linear combination, activation | Implement single perceptron                | Understand "decision with weighted brain" | Coming Soon             |
+| **Day 16** | Activation Functions  | Sigmoid, ReLU, Tanh, LeakyReLU          | Visualize functions on graphs              | Master non-linearity                      | Coming Soon             |
+| **Day 17** | Forward Propagation   | Signal flow from input to output        | Implement forward propagation with numpy   | Understand information flow               | Coming Soon             |
+| **Day 18** | Backpropagation       | Chain rule, gradients for each layer    | Calculate gradients manually for one layer | Master "backward wave for corrections"    | Coming Soon             |
+| **Day 19** | Optimization          | SGD, Momentum, Adam                     | Implement Adam for simple NN               | Advanced optimization techniques          | Coming Soon             |
+| **Day 20** | Practice: NN on MNIST | Combine all concepts                    | Build 1-2 layer NN with numpy              | End-to-end neural network                 | Coming Soon             |
+| **Day 21** | Week 3 Explanation    | Review NN, forward/backward propagation | Explain all concepts in your own words     | Deep learning comprehension               | Coming Soon             |
 
-#### Week 4: Advanced DL & Modern Architectures
+## Week 4: Advanced DL & Modern Architectures
 
 **Goal:** Understanding CNN, RNN, LSTM, Transformer, Attention.
 
-| Day        | Topic                            | Theory                                              | Practice                                       | Goal                                    |
-| ---------- | -------------------------------- | --------------------------------------------------- | ---------------------------------------------- | --------------------------------------- |
-| **Day 22** | CNN Basics                       | Convolution, Pooling, Flatten                       | Simple CNN on MNIST with PyTorch/Keras         | Understand spatial processing           |
-| **Day 23** | Advanced CNN                     | Padding, stride, filter size                        | Visualize feature maps                         | Master convolutional operations         |
-| **Day 24** | RNN Basics                       | Sequential data, hidden state                       | Simple RNN on synthetic sequence               | Process sequential information          |
-| **Day 25** | LSTM/GRU                         | Gates, memory cell                                  | Implement LSTM with PyTorch/Keras              | Handle long-term dependencies           |
-| **Day 26** | Attention & Transformer          | Self-attention, query/key/value                     | Simple transformer scheme                      | "Each word looks at others for context" |
-| **Day 27** | Optimization Tricks              | BatchNorm, Dropout, LR scheduler, Gradient clipping | Add to CNN/RNN                                 | Master training techniques              |
-| **Day 28** | Complex Practice                 | Mini-project combining concepts                     | Image classification + metrics + visualization | Apply all knowledge                     |
-| **Day 29** | Final DL Explanation             | Review all DL concepts                              | Explain CNN, RNN, LSTM, Transformer            | Complete understanding                  |
-| **Day 30** | Mini-Project + Final Explanation | End-to-end project                                  | MNIST/FashionMNIST with NN/CNN                 | Master complete ML pipeline             |
+| Day        | Topic                            | Theory                                              | Practice                                       | Goal                                    | 1-Minute LinkedIn Video |
+| ---------- | -------------------------------- | --------------------------------------------------- | ---------------------------------------------- | --------------------------------------- | ----------------------- |
+| **Day 22** | CNN Basics                       | Convolution, Pooling, Flatten                       | Simple CNN on MNIST with PyTorch/Keras         | Understand spatial processing           | Coming Soon             |
+| **Day 23** | Advanced CNN                     | Padding, stride, filter size                        | Visualize feature maps                         | Master convolutional operations         | Coming Soon             |
+| **Day 24** | RNN Basics                       | Sequential data, hidden state                       | Simple RNN on synthetic sequence               | Process sequential information          | Coming Soon             |
+| **Day 25** | LSTM/GRU                         | Gates, memory cell                                  | Implement LSTM with PyTorch/Keras              | Handle long-term dependencies           | Coming Soon             |
+| **Day 26** | Attention & Transformer          | Self-attention, query/key/value                     | Simple transformer scheme                      | "Each word looks at others for context" | Coming Soon             |
+| **Day 27** | Optimization Tricks              | BatchNorm, Dropout, LR scheduler, Gradient clipping | Add to CNN/RNN                                 | Master training techniques              | Coming Soon             |
+| **Day 28** | Complex Practice                 | Mini-project combining concepts                     | Image classification + metrics + visualization | Apply all knowledge                     | Coming Soon             |
+| **Day 29** | Final DL Explanation             | Review all DL concepts                              | Explain CNN, RNN, LSTM, Transformer            | Complete understanding                  | Coming Soon             |
+| **Day 30** | Mini-Project + Final Explanation | End-to-end project                                  | MNIST/FashionMNIST with NN/CNN                 | Master complete ML pipeline             | Coming Soon             |
 
 ---
 

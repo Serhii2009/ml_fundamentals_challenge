@@ -198,6 +198,8 @@ Explain to a 10-year-old what a Loss Function is and why we minimize it.
 
 (Imagine the child loves playing darts 🎯)
 
+---
+
 ## Key Takeaways
 
 - **Loss Function** measures how wrong our predictions are
@@ -205,7 +207,5 @@ Explain to a 10-year-old what a Loss Function is and why we minimize it.
 - **Cross-Entropy** is perfect for classification problems (predicting categories)
 - **Goal**: Always minimize loss to improve model accuracy
 - **Visualization**: Think of it as hitting the bullseye on a dartboard
-
----
 
 _Happy Learning! 🚀_
