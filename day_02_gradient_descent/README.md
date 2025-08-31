@@ -1,4 +1,4 @@
-# 📊 LESSON 2: GRADIENT DESCENT
+# 📘 LESSON 2: GRADIENT DESCENT
 
 ## 1. Theory: What is Gradient Descent?
 
