@@ -90,15 +90,15 @@ Each day follows a **clear and structured path**:
 
 **Goal:** Understand how models learn from the inside — loss, gradients, optimization steps.
 
-| Day       | Topic                                       | Theory                                     | Practice                                         | Goal                                       | 1-Minute LinkedIn Video                                                                                                   |
-| --------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| **Day 1** | Loss Function Mathematics                   | MSE, Cross-Entropy, formulas, meaning      | Implement MSE and Cross-Entropy with numpy       | Explain loss functions to a 10-year-old    | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7362854560731734016-kAfl        |
-| **Day 2** | Introduction to Gradient Descent            | Derivative as direction of smallest change | Implement gradient descent for one variable      | Understand "rolling down the hill" analogy | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7367575410915565568-gL_X        |
-| **Day 3** | Multidimensional Gradient Descent           | Gradients for vectors and matrices         | Implement gradient descent for linear regression | Calculate gradient step manually           | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-dl-activity-7368267543695740930-x_OQ                     |
-| **Day 4** | Learning Rate, Momentum, RMSProp            | Why step size regulation matters           | Add momentum to gradient descent                 | Master optimization techniques             | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7368644528934797313-VADw        |
-| **Day 5** | Regularization                              | L1, L2, Elastic Net, Dropout               | Add L2 regularization to linear regression       | Understand "penalty for complexity"        | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7366103411445927937-rST6        |
-| **Day 6** | Practice: Gradient Descent + Regularization | Combine concepts                           | Build model on synthetic data                    | Experiment with hyperparameters            | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-artificialintelligence-activity-7369390120652808194-ZZG1 |
-| **Day 7** | Week 1 Explanation                          | Review and solidify                        | Explain all concepts in your own words           | Deep comprehension check                   | Coming Soon                                                                                                               |
+| Day       | Topic                                       | Theory                                     | Practice                                         | Goal                                       | 1-Minute LinkedIn Video                                                                                                                |
+| --------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Day 1** | Loss Function Mathematics                   | MSE, Cross-Entropy, formulas, meaning      | Implement MSE and Cross-Entropy with numpy       | Explain loss functions to a 10-year-old    | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7362854560731734016-kAfl                     |
+| **Day 2** | Introduction to Gradient Descent            | Derivative as direction of smallest change | Implement gradient descent for one variable      | Understand "rolling down the hill" analogy | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7367575410915565568-gL_X                     |
+| **Day 3** | Multidimensional Gradient Descent           | Gradients for vectors and matrices         | Implement gradient descent for linear regression | Calculate gradient step manually           | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-dl-activity-7368267543695740930-x_OQ                                  |
+| **Day 4** | Learning Rate, Momentum, RMSProp            | Why step size regulation matters           | Add momentum to gradient descent                 | Master optimization techniques             | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7368644528934797313-VADw                     |
+| **Day 5** | Regularization                              | L1, L2, Elastic Net, Dropout               | Add L2 regularization to linear regression       | Understand "penalty for complexity"        | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-machinelearning-activity-7366103411445927937-rST6                     |
+| **Day 6** | Practice: Gradient Descent + Regularization | Combine concepts                           | Build model on synthetic data                    | Experiment with hyperparameters            | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-ml-artificialintelligence-activity-7369390120652808194-ZZG1              |
+| **Day 7** | Week 1 Explanation                          | Review and solidify                        | Explain all concepts in your own words           | Deep comprehension check                   | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_ai-artificialintelligence-machinelearning-activity-7369739519358672896-pjad |
 
 ## Week 2: ML Foundations
 
@@ -191,3 +191,9 @@ By completing this 30-day challenge:
 **Learning by doing, reflecting, and teaching is the fastest path to mastering Machine Learning and Deep Learning.**
 
 If you follow this repository day by day, and truly practice each topic, you will understand the math, the code, and the intuition behind every core concept.
+
+---
+
+## 📝 License
+
+This repository is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
