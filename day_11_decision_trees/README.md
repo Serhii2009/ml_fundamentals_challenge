@@ -1,4 +1,4 @@
-# 🌳 LESSON 11: DECISION TREES
+# 📘 LESSON 11: DECISION TREES
 
 ## 1. Theory: What Are Decision Trees?
 
