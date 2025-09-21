@@ -112,7 +112,7 @@ Each day follows a **clear and structured path**:
 | **Day 11** | Decision Trees                              | Space partitioning, entropy, Gini                  | Build decision tree with sklearn       | Understand tree-based decisions  | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_day-11-of-our-ml-challenge-decision-trees-activity-7373332438728589312-utIm |
 | **Day 12** | Ensembles: Random Forest, Gradient Boosting | Bagging vs Boosting concepts                       | Apply Random Forest on dataset         | Master ensemble methods          | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_day-12-of-our-mldl-challenge-mastering-activity-7374071778450788352-BgDX    |
 | **Day 13** | Feature Engineering & Scaling               | Normalization, standardization, one-hot encoding   | Preprocess real dataset                | Prepare data for models          | https://lnkd.in/p/ev_ShQnt                                                                                                             |
-| **Day 14** | Week 2 Explanation                          | Review ML algorithms and preprocessing             | Explain all concepts in your own words | Solidify ML fundamentals         | Coming Soon                                                                                                                            |
+| **Day 14** | Week 2 Explanation                          | Review ML algorithms and preprocessing             | Explain all concepts in your own words | Solidify ML fundamentals         | https://lnkd.in/p/eZ2tdDWv                                                                                                             |
 
 ## Week 3: Deep Learning Fundamentals
 
