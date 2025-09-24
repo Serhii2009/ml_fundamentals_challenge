@@ -1,4 +1,4 @@
-# 📘 LESSON 14: REVIEW OF WEEK 2
+# 🎉 LESSON 14: REVIEW OF WEEK 2
 
 ## 1. The Power of Review: Why This Matters
 

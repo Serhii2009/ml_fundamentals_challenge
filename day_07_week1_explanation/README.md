@@ -1,4 +1,4 @@
-# 🎯 DAY 7: VERBAL PRACTICE - LOSS + GRADIENT DESCENT + REGULARIZATION
+# 🎉 DAY 7: VERBAL PRACTICE - LOSS + GRADIENT DESCENT + REGULARIZATION
 
 **Welcome to your consolidation day!** Today we strengthen understanding through verbal practice - one of the most effective ways to truly master concepts. This skill is essential for interviews, teaching others, and building deep comprehension.
 

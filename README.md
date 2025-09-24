@@ -118,15 +118,15 @@ Each day follows a **clear and structured path**:
 
 **Goal:** Understand neural network structure and backpropagation.
 
-| Day        | Topic                 | Theory                                  | Practice                                   | Goal                                      | 1-Minute LinkedIn Video |
-| ---------- | --------------------- | --------------------------------------- | ------------------------------------------ | ----------------------------------------- | ----------------------- |
-| **Day 15** | Perceptron            | Formula, linear combination, activation | Implement single perceptron                | Understand "decision with weighted brain" | Coming Soon             |
-| **Day 16** | Activation Functions  | Sigmoid, ReLU, Tanh, LeakyReLU          | Visualize functions on graphs              | Master non-linearity                      | Coming Soon             |
-| **Day 17** | Forward Propagation   | Signal flow from input to output        | Implement forward propagation with numpy   | Understand information flow               | Coming Soon             |
-| **Day 18** | Backpropagation       | Chain rule, gradients for each layer    | Calculate gradients manually for one layer | Master "backward wave for corrections"    | Coming Soon             |
-| **Day 19** | Optimization          | SGD, Momentum, Adam                     | Implement Adam for simple NN               | Advanced optimization techniques          | Coming Soon             |
-| **Day 20** | Practice: NN on MNIST | Combine all concepts                    | Build 1-2 layer NN with numpy              | End-to-end neural network                 | Coming Soon             |
-| **Day 21** | Week 3 Explanation    | Review NN, forward/backward propagation | Explain all concepts in your own words     | Deep learning comprehension               | Coming Soon             |
+| Day        | Topic                 | Theory                                  | Practice                                   | Goal                                      | 1-Minute LinkedIn Video                                                                                                              |
+| ---------- | --------------------- | --------------------------------------- | ------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Day 15** | Perceptron            | Formula, linear combination, activation | Implement single perceptron                | Understand "decision with weighted brain" | https://www.linkedin.com/posts/serhii-kravchenko-b941272a6_day-15-of-our-mldl-challenge-perceptron-activity-7376610160917553152-x_yG |
+| **Day 16** | Activation Functions  | Sigmoid, ReLU, Tanh, LeakyReLU          | Visualize functions on graphs              | Master non-linearity                      | Coming Soon                                                                                                                          |
+| **Day 17** | Forward Propagation   | Signal flow from input to output        | Implement forward propagation with numpy   | Understand information flow               | Coming Soon                                                                                                                          |
+| **Day 18** | Backpropagation       | Chain rule, gradients for each layer    | Calculate gradients manually for one layer | Master "backward wave for corrections"    | Coming Soon                                                                                                                          |
+| **Day 19** | Optimization          | SGD, Momentum, Adam                     | Implement Adam for simple NN               | Advanced optimization techniques          | Coming Soon                                                                                                                          |
+| **Day 20** | Practice: NN on MNIST | Combine all concepts                    | Build 1-2 layer NN with numpy              | End-to-end neural network                 | Coming Soon                                                                                                                          |
+| **Day 21** | Week 3 Explanation    | Review NN, forward/backward propagation | Explain all concepts in your own words     | Deep learning comprehension               | Coming Soon                                                                                                                          |
 
 ## Week 4: Advanced DL & Modern Architectures
 
