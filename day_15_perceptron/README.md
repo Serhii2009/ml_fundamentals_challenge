@@ -1,4 +1,4 @@
-# 📘 LESSON 15: PERCEPTRON - THE NEURAL BUILDING BLOCK
+# 📘 LESSON 15: PERCEPTRON
 
 ## 1. Introduction: Meet the Perceptron
 
