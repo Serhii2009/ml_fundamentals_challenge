@@ -714,6 +714,6 @@ _Ready to build intelligent sequential models! 🚀_
 
 Forward-pass visualization of untrained LSTM and GRU models, showing internal gate activations:
 
-![LSTM vs GRU visualization](images/lstm_gru.png)
+![LSTM vs GRU visualization](lstm_gru_plot.png)
 
 ---
