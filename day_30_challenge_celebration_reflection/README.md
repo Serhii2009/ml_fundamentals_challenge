@@ -186,10 +186,10 @@ I'm still here. Still building. Still learning.And the journey continues — jus
 
 **You can follow what's next here:**
 
-- **LinkedIn:** [Serhii Kravchenko](https://www.linkedin.com/in/serhii-kravchenko-b941272a6/) — thoughts, insights, and things I'm building in public
+- **LinkedIn:** [Serhii Kravchenko](https://www.linkedin.com/in/serhii-kravchenko1) — thoughts, insights, and things I'm building in public
 - **GitHub:** [@Serhii2009](https://github.com/Serhii2009) — new projects, experiments, and ideas
 - **Kaggle:** [@serhiikravchenko2009](https://www.kaggle.com/serhiikravchenko2009) — experiments, notebooks, and data exploration
-- **Instagram:** [@serhiik_kravchenko](https://www.instagram.com/serhiik_kravchenko/) — behind the scenes, mindset, and the human side of the journey
+- **Instagram:** [@serhiik_kravchenko](https://www.instagram.com/serhiik_kravchenko) — behind the scenes, mindset, and the human side of the journey
 - **YouTube:** _(maybe soon 👀)_ — deeper breakdowns, projects, and long-form thinking
 
 **Questions? Ideas? Feedback?** Reach out. Learning happens best in community. Let's build together.

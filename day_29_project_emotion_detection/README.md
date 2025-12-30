@@ -636,7 +636,7 @@ If you:
 
 - **GitHub:** [@Serhii2009](https://github.com/Serhii2009)
 - **Kaggle:** [@serhiikravchenko2009](https://www.kaggle.com/serhiikravchenko2009)
-- **LinkedIn:** [Serhii Kravchenko](https://www.linkedin.com/in/serhii-kravchenko-b941272a6/)
+- **LinkedIn:** [Serhii Kravchenko](https://www.linkedin.com/in/serhii-kravchenko1)
 
 ---
 
